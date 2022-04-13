@@ -23,5 +23,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuasp+a0sijmrKLov47orqLpmIVZb3V0dWJl56C0
 
 ```
 ![节点图](/节点图1.png)
-- 免费节点，禁止滥用
-- 喝茶后果自负
+- **免费节点，禁止滥用**
+- **喝茶后果自负**
